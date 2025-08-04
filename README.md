@@ -28,7 +28,7 @@ Actualmente lidero un equipo de datos en el Observatorio del Gobierno de Corrien
 📊 Pandas • NumPy • scikit-learn • TensorFlow • NLP • LangChain
 
 ### **Data Engineering & Orquestación de Flujos**  
-📦 Airflow • Make (Integromat) • Snowflake (académico) • Google Cloud Platform (GCP)
+📦 Airflow • Snowflake (académico) • Google Cloud Platform (GCP)
 
 ### **Visualización & BI Tools**  
 📈 Power BI • Streamlit • Matplotlib • Seaborn • Plotly
@@ -37,7 +37,7 @@ Actualmente lidero un equipo de datos en el Observatorio del Gobierno de Corrien
 🛠️ Git • GitHub • VS Code • Notion • Trello • Slack
 
 ### **Otras herramientas**  
-🗺️ Google Maps API • Kommo (CRM) • Excel avanzado
+🗺️ Google Maps API • Kommo (CRM) • Excel • Make 
 
 ---
 
@@ -59,6 +59,24 @@ Actualmente lidero un equipo de datos en el Observatorio del Gobierno de Corrien
 
 ---
 
+### ❄️ **Análisis de datos en la nube con Snowflake**
+
+📍 _Exploración de grandes volúmenes de datos en un entorno de Data Warehouse moderno utilizando Snowflake_
+
+🎯 Objetivo: Evaluar el rendimiento de consultas complejas sobre datasets de gran escala utilizando SQL sobre la arquitectura cloud de Snowflake.
+
+🧰 Tecnologías utilizadas:
+
+- **Snowflake:** como motor principal de almacenamiento y procesamiento de datos en la nube.
+- **SQL:** para realizar consultas analíticas, limpiezas y agregaciones de datos.
+- **Python + Pandas (Jupyter):** para validación externa, visualización exploratoria y conexión con Snowflake mediante `snowflake-connector-python`.
+
+🚀 Resultado: Generación de insights clave con consultas optimizadas, manejo eficiente de millones de registros y mejora de las habilidades en entornos de datos cloud escalables.
+
+🔗 [Repositorio]([*CYCLE WORLD*](https://github.com/LacavaLorenzo/Cycle_World))
+
+---
+
 ### 🚗 **SoyHenry - Siniestros Viales**
 
 📍 _Proyecto individual de análisis de datos viales en Buenos Aires entre 2016 y 2021_  
@@ -71,7 +89,7 @@ Actualmente lidero un equipo de datos en el Observatorio del Gobierno de Corrien
 - **Análisis espacial:** Google Maps API para localizar zonas críticas
 - **Stack:** Python, Pandas, NumPy, SQL
 
-🔗 [Repositorio](*AGREGAR LINK*)
+🔗 [Repositorio]([*SINIESTROS CABA*](https://github.com/LacavaLorenzo/SiniestrosViales_CABA))
 
 ---
 
@@ -88,7 +106,7 @@ Actualmente lidero un equipo de datos en el Observatorio del Gobierno de Corrien
 - **API:** FastAPI + endpoints para usuarios y recomendaciones
 - **Deploy:** Render + GitHub Actions
 
-🔗 [Repositorio](*AGREGAR LINK*)
+🔗 [Repositorio]([*STEAM MLOps*](https://github.com/LacavaLorenzo/STEAM_MLOps))
 
 ---
 🎮 **PizzaHut**
