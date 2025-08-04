@@ -57,6 +57,8 @@ Actualmente lidero un equipo de datos en el Observatorio del Gobierno de Corrien
 
 🚀 Resultado: Reducción del 90% del tiempo dedicado a tareas manuales + mejoras en la visibilidad de vencimientos cercanos
 
+🔗 [Repositorio](https://github.com/LacavaLorenzo/VencimientosMAKE)
+
 ---
 
 ### ❄️ **Análisis de datos en la nube con Snowflake**
