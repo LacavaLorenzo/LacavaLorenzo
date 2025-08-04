@@ -73,7 +73,7 @@ Actualmente lidero un equipo de datos en el Observatorio del Gobierno de Corrien
 
 🚀 Resultado: Generación de insights clave con consultas optimizadas, manejo eficiente de millones de registros y mejora de las habilidades en entornos de datos cloud escalables.
 
-🔗 [Repositorio]([*CYCLE WORLD*](https://github.com/LacavaLorenzo/Cycle_World))
+🔗 [Repositorio](https://github.com/LacavaLorenzo/Cycle_World)
 
 ---
 
@@ -89,7 +89,7 @@ Actualmente lidero un equipo de datos en el Observatorio del Gobierno de Corrien
 - **Análisis espacial:** Google Maps API para localizar zonas críticas
 - **Stack:** Python, Pandas, NumPy, SQL
 
-🔗 [Repositorio]([*SINIESTROS CABA*](https://github.com/LacavaLorenzo/SiniestrosViales_CABA))
+🔗 [Repositorio](https://github.com/LacavaLorenzo/SiniestrosViales_CABA)
 
 ---
 
@@ -106,7 +106,7 @@ Actualmente lidero un equipo de datos en el Observatorio del Gobierno de Corrien
 - **API:** FastAPI + endpoints para usuarios y recomendaciones
 - **Deploy:** Render + GitHub Actions
 
-🔗 [Repositorio]([*STEAM MLOps*](https://github.com/LacavaLorenzo/STEAM_MLOps))
+🔗 [Repositorio](https://github.com/LacavaLorenzo/STEAM_MLOps)
 
 ---
 🎮 **PizzaHut**
