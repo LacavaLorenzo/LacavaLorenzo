@@ -112,7 +112,6 @@ Actualmente lidero un equipo de datos en el Observatorio del Gobierno de Corrien
 
 ---
 🎮 **PizzaHut**
-*AGREGARLINK*
 
 ---
 
